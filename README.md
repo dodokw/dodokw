@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![dodokw's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodokw)](https://github.com/dodokw/github-readme-stats)
+[![고동관's GitHub stats](https://github-readme-stats.vercel.app/api?username=고동관)](https://github.com/고동관/github-readme-stats)
 
 
 <!--
