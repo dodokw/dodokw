@@ -3,18 +3,9 @@
 이 파일은 제공된 가이드를 기반으로 생성된 GitHub 프로필 README입니다.
 아래 내용에서 '[ ]'로 표시된 부분이나 'your-...'로 시작하는 링크를 실제 정보로 수정해주세요.
 -->
-
-<!-- 1. 헤더: 방문자에게 첫인상을 남기는 부분입니다. -->
-
-<p align="center">
-<!-- 'capsule-render'를 사용하여 동적인 헤더 이미지를 생성합니다. 텍스트나 색상을 자유롭게 변경해보세요. -->
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dauto%26height%3D280%26section%3Dheader%26text%3DHello!%2520I%27m%2520dodokw%26fontSize%3D60%26animation%3DfadeIn%26fontAlignY%3D35%26desc%3DA%2520Passionate%2520React%2520Native%2520Developer%26descAlignY%3D55%26descAlign%3D50"/>
-</p>
-
-
 <div align="center">
 
-<a href="https://dodokw93.tistory.com/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Velog-20C997%3Fstyle%3Dfor-the-badge%26logo%3DVelog%26logoColor%3Dwhite"/></a>
+<a href="https://dodokw93.tistory.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/14343537?s=200&v=4"/></a>
 
 <a href="mailto:dodokw93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
