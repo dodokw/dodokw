@@ -11,18 +11,15 @@
 <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dauto%26height%3D280%26section%3Dheader%26text%3DHello!%2520I%27m%2520dodokw%26fontSize%3D60%26animation%3DfadeIn%26fontAlignY%3D35%26desc%3DA%2520Passionate%2520React%2520Native%2520Developer%26descAlignY%3D55%26descAlign%3D50"/>
 </p>
 
-<!-- 2. 소셜 링크: 블로그, 링크드인, 이메일 등 외부 링크를 연결합니다. -->
 
 <div align="center">
-<!-- '[https://your-blog-url.com]'을 실제 블로그 주소로 변경하세요. (예: https://www.google.com/search?q=https://velog.io/%40dodokw) -->
-<a href="[https://your-blog-url.com]" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Velog-20C997%3Fstyle%3Dfor-the-badge%26logo%3DVelog%26logoColor%3Dwhite"/></a>
-<!-- '[https://your-linkedin-url]'을 실제 링크드인 프로필 주소로 변경하세요. -->
-<a href="[https://your-linkedin-url]" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite"/></a>
-<!-- 'your-email@email.com'을 실제 이메일 주소로 변경하세요. -->
-<a href="mailto:your-email@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<a href="https://dodokw93.tistory.com/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Velog-20C997%3Fstyle%3Dfor-the-badge%26logo%3DVelog%26logoColor%3Dwhite"/></a>
+
+<a href="mailto:dodokw93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
-<!-- 3. 소개 ("About Me"): 자신에 대해 간략하게 소개하는 공간입니다. -->
+
 
 <h3 align="center">👋 About Me</h3>
 
@@ -32,7 +29,7 @@
 
 👯 I’m looking to collaborate on open-source projects related to the React Native ecosystem.
 
-📫 How to reach me: [your-email@email.com] <!-- 이메일 주소를 다시 한번 입력해주세요. -->
+📫 How to reach me: [dodokw93@gmail.com]
 
 ⚡ Fun fact: I believe that a great user experience is as important as clean code.
 
@@ -48,12 +45,6 @@
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Redux-764ABC%3Fstyle%3Dfor-the-badge%26logo%3Dredux%26logoColor%3Dwhite"/>
 <br/>
-<b>⚙️ Backend & Tools</b><br/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dfor-the-badge%26logo%3Dfirebase%26logoColor%3Dblack"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Android%2520Studio-3DDC84%3Fstyle%3Dfor-the-badge%26logo%3Dandroidstudio%26logoColor%3Dwhite"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gradle-02303A%3Fstyle%3Dfor-the-badge%26logo%3Dgradle%26logoColor%3Dwhite"/>
 </p>
 
 <!-- 5. GitHub 통계: 자동으로 업데이트되는 활동 통계입니다. -->
