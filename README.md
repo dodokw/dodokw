@@ -5,7 +5,7 @@
 -->
 <div align="center">
 <a href="mailto:dodokw93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://dodokw93.tistory.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/14343537?s=200&v=4" width="80" height="40"/></a>
+<a href="https://dodokw93.tistory.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/14343537?s=200&v=4" width="60" height="60"/></a>
 </div>
 
 
