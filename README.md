@@ -24,8 +24,7 @@
 
 ⚡ Fun fact: I believe that a great user experience is as important as clean code.
 
-<!-- 4. 기술 스택: 사용할 수 있는 기술들을 뱃지 형태로 보여줍니다. -->
-
+<br/>
 <h3 align="center">🛠️ My Tech Stack 🛠️</h3>
 <p align="center">
 <b>📱 Mobile & Frontend</b><br/>
@@ -37,9 +36,9 @@
 <br/>
 </p>
 
-<!-- 5. GitHub 통계: 자동으로 업데이트되는 활동 통계입니다. -->
-
+<br/>
 <h3 align="center">📊 My GitHub Stats 📊</h3>
+<br/>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodokw&layout=compact&theme=radical" alt="dodokw's top languages" />
 </p>
@@ -48,6 +47,7 @@
 </p>
 
 <h3 align="center">🔥 My Contribution Graph 🔥</h3>
+<br/>
 <p align="center">
 <img src="profile-3d-contrib/profile-night-rainbow.svg">
 </p>
