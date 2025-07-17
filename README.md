@@ -30,13 +30,9 @@
 <p align="center">
 <b>📱 Mobile & Frontend</b><br/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ18Gt9viR2yfaYTVjyutOeMAGk6sFTje4g2A&s" width="50" height="30"/>
-<div width="5"/>
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" width="50" height="30"/>
-<div width="5"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" width="50" height="30"/>
-<div width="5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="30"/>
-<div width="5"/>
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="6" height="6"/>
 <br/>
 </p>
