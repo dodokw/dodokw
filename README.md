@@ -29,12 +29,11 @@
 <h3 align="center">🛠️ My Tech Stack 🛠️</h3>
 <p align="center">
 <b>📱 Mobile & Frontend</b><br/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React%2520Native-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ18Gt9viR2yfaYTVjyutOeMAGk6sFTje4g2A&s"/>
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Redux-764ABC%3Fstyle%3Dfor-the-badge%26logo%3Dredux%26logoColor%3Dwhite"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E"/>
 <br/>
 </p>
 
