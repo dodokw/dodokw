@@ -3,14 +3,16 @@
 이 파일은 제공된 가이드를 기반으로 생성된 GitHub 프로필 README입니다.
 아래 내용에서 '[ ]'로 표시된 부분이나 'your-...'로 시작하는 링크를 실제 정보로 수정해주세요.
 -->
+<!--
 <div align="center">
 <a href="mailto:dodokw93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://dodokw93.tistory.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/14343537?s=200&v=4" width="60" height="60"/></a>
 </div>
+-->
 
 
 
-<h3 align="center">👋 About Me</h3>
+<h3 align="flex-start">👋 About Me</h3>
 
 🔭 I’m currently working on a cross-platform mobile application using React Native and Expo.
 
