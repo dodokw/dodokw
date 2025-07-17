@@ -44,11 +44,11 @@
 <!-- GitHub 활동 통계 카드 -->
 <img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddodokw%26show_icons%3Dtrue%26locale%3Dko%26theme%3Dradical" alt="dodokw's github stats" />
 <!-- 가장 많이 사용한 언어 카드 -->
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Ddodokw%26layout%3Dcompact%26locale%3Dko%26theme%3Dradical" alt="dodokw's top languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodokw&layout=compact&theme=radical" alt="dodokw's top languages" />
 </p>
 <p align="center">
 <!-- 연속 커밋 기록 (Streak) 카드 -->
-<img align="center" src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3Ddodokw%26theme%3Ddark%26locale%3Dko" alt="dodokw's streak stats" />
+<img align="center" src="https://streak-stats.demolab.com/?user=dodokw&theme=dark" alt="dodokw's streak stats" />
 </p>
 <p align="center">
 <!-- GitHub 프로필 트로피 -->
