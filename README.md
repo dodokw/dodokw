@@ -4,10 +4,8 @@
 아래 내용에서 '[ ]'로 표시된 부분이나 'your-...'로 시작하는 링크를 실제 정보로 수정해주세요.
 -->
 <div align="center">
-
-<a href="https://dodokw93.tistory.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/14343537?s=200&v=4"/></a>
-
 <a href="mailto:dodokw93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://dodokw93.tistory.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/14343537?s=200&v=4" width="80" height="40"/></a>
 </div>
 
 
@@ -41,28 +39,13 @@
 
 <h3 align="center">📊 My GitHub Stats 📊</h3>
 <p align="center">
-<!-- GitHub 활동 통계 카드 -->
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddodokw%26show_icons%3Dtrue%26locale%3Dko%26theme%3Dradical" alt="dodokw's github stats" />
-<!-- 가장 많이 사용한 언어 카드 -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodokw&layout=compact&theme=radical" alt="dodokw's top languages" />
 </p>
 <p align="center">
-<!-- 연속 커밋 기록 (Streak) 카드 -->
 <img align="center" src="https://streak-stats.demolab.com/?user=dodokw&theme=dark" alt="dodokw's streak stats" />
 </p>
-<p align="center">
-<!-- GitHub 프로필 트로피 -->
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Ddodokw%26theme%3Dradical%26margin-w%3D15%26margin-h%3D15" alt="dodokw's trophy" />
-</p>
-
-<!--
-6. 3D 기여도 그래프:
-이 이미지를 표시하려면 GitHub Action 설정이 필요합니다.
-가이드 문서의 '파트 II, 섹션 2.2'를 참고하여 .github/workflows/profile-3d.yml 파일을 생성하고 Action을 실행해주세요.
-Action이 성공적으로 실행되면 이 이미지가 자동으로 나타납니다.
--->
 
 <h3 align="center">🔥 My Contribution Graph 🔥</h3>
 <p align="center">
-<img src="profile-3d-contrib/profile-season-animate.svg">
+<img src="profile-3d-contrib/profile-night-rainbow.svg">
 </p>
