@@ -22,8 +22,6 @@
 
 📫 How to reach me: [dodokw93@gmail.com]
 
-⚡ Fun fact: I believe that a great user experience is as important as clean code.
-
 <br/>
 <h3 align="center">🛠️ My Tech Stack 🛠️</h3>
 <p align="center">
