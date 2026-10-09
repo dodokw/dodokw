@@ -12,15 +12,27 @@
 
 
 
-<h3 align="flex-start">👋 About Me</h3>
+## Hi, I'm DongKwan — founder of DOKWDO (도크도)
 
-🔭 I’m currently working on a cross-platform mobile application using React Native and Expo.
+I build and operate DOKWDO's own mobile apps and web services, from product design and development to store releases and ongoing updates.
 
-🌱 I’m currently learning about native module bridging and performance optimization in mobile apps.
+도크도는 자체 모바일 앱과 웹 서비스를 직접 기획·개발·출시하고 운영하는 독립 제품 스튜디오입니다.
 
-👯 I’m looking to collaborate on open-source projects related to the React Native ecosystem.
+- **Company & products:** [dokwdo.cloud](https://dokwdo.cloud)
+- **Product development stories:** [DOKWDO portfolio](https://dokwdo.cloud/portfolio/)
+- **Business contact:** [ceo@dokwdo.cloud](mailto:ceo@dokwdo.cloud)
 
-📫 How to reach me: [dodokw93@gmail.com]
+### Products I build and operate
+
+| Product | What it does |
+| --- | --- |
+| [HomeGym](https://hg.dokwdo.cloud/) | On-device AI workout coaching and exercise tracking |
+| [ReVox](https://dokwdo.cloud/portfolio/#revox) | Song covers, recording and vocal effects |
+| [챙김](https://dokwdo.cloud/portfolio/#chaenggim) | Housing, subsidy and welfare information discovery |
+| [포근한 책친구](https://dokwdo.cloud/portfolio/#pogeuni) | Reading timers, a personal library and reading records |
+| [mapAlbum](https://dokwdo.cloud/portfolio/#maps) | Exploring photo memories on a map |
+
+I also work on open-source tools for the React Native ecosystem, including [react-native-nitro-tflite](https://github.com/dodokw/react-native-nitro-tflite).
 
 <br/>
 <h3 align="center">🛠️ My Tech Stack 🛠️</h3>
